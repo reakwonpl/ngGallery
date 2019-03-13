@@ -1,0 +1,35 @@
+.tn
+{
+    margin: 6px;
+    border: 4px solid #f96868;
+    box-shadow: #555 1px 1px 8px 1px;
+}
+
+ul{
+    padding: 0;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+li
+{
+    display: inline;
+}
+
+.btn
+{
+    background-color: #f96868;
+    color: aliceblue;
+    margin: 10px;
+    padding: 3px 8px 3px 8px;
+    border-radius: 3px;
+    border-bottom: 0;
+}
+
+.btn.active
+{
+    background-color: white;
+    color: #f96868;
+    
+}
+

@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Comfortaa', cursive;
+    background-color: #6b6b6b;
+}
+
+.main-content
+{
+    padding-top: 90px;
+    color: #ff8a8a;
+    font-family: 'Sniglet', cursive;
+    /* background-color: #6b6b6b;  */
+}
+

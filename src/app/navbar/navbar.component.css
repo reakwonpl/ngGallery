@@ -1,0 +1,29 @@
+.logo{
+    color: #f96868;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family: 'Comfortaa', cursive;
+}
+
+.logo-left
+{
+    color: white;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family: 'Comfortaa', cursive;
+    pointer-events: none;
+    
+}
+nav{
+    font-family: 'Comfortaa', cursive; 
+    }
+
+/* ul.nav a
+{
+
+}
+
+ul.nav a:hover
+{
+
+} */
